@@ -11,17 +11,3 @@ This plugin:
 ## Images
 
 ![Icon](icon.png)
-
-## Infobox
-
-> This is an info box highlighting useful information.
-
-## Chart
-
-:::mermaid
-  graph TD;
-    A-->B;
-    A-->C;
-    B-->D;
-    C-->D;
-:::
